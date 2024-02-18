@@ -1,4 +1,4 @@
-import 'package:cat_breeds_app/app.dart';
+import 'package:catbreeds_app/app.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

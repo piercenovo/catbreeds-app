@@ -1,5 +1,5 @@
-import 'package:cat_breeds_app/core/utils/theme/theme.dart';
-import 'package:cat_breeds_app/presentation/screens/home_screen.dart';
+import 'package:catbreeds_app/core/utils/theme/theme.dart';
+import 'package:catbreeds_app/presentation/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {

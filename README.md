@@ -1,4 +1,4 @@
-# cat_breeds_app
+# catbreeds_app
 
 A new Flutter project.
 
